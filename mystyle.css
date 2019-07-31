@@ -18,7 +18,8 @@ body {
 }
 
 #likings {
-  font-size: 47px;
+  font-size: 47px
+  width:100%;
 }
 
 #likings2 {
@@ -26,7 +27,7 @@ body {
 }
 
 a:link, a:visited {
-  color: lightgrye;
+  color: lightgrey;
   font-family: fantasy;
 }
 a:active, a:link {
