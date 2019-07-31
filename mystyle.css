@@ -41,7 +41,11 @@ a:active, a:link {
 #eiffeltower {
   display: block;
   width: 400px;
+}
 
+#aboutme {
+  font-size: 13px;
+  width: 100%
 }
 
 #self {
