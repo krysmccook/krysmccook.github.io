@@ -1,0 +1,82 @@
+body {
+  background-color: lightsalmon;
+}
+
+#title {
+  color: white;
+  font-size: 45px;
+  display:block;
+  font-family: fashion;
+}
+
+
+#bio {
+  font-size: 20px;
+  font-family: Courier
+  font-style: oblique;
+  display: block;
+}
+
+#likings {
+  font-size: 47px;
+}
+
+#likings2 {
+  font-size:40px;
+}
+
+a:link, a:visited {
+  color: lightgrye;
+  font-family: fantasy;
+}
+a:active, a:link {
+  color: hotpink;
+}
+
+/* .float {
+  float: right; */
+}
+
+#eiffeltower {
+  display: block;
+  width: 400px;
+
+}
+
+#self {
+  display: block;
+  width: 245px;
+}
+
+td, tr {
+  padding: 100px;
+}
+
+.center {
+  display: block;
+  width: 200px;
+}
+
+
+
+
+
+
+
+/*
+ #aboutme {
+  background-color: yellow;
+  font-size: 64;
+  font-family:monospace;
+  font-
+
+}
+
+.myfirstclass {
+  background-color: pink;
+  font-family: serif
+}
+
+body {
+  background-color: grey;
+}  */
