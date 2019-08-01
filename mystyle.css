@@ -1,5 +1,5 @@
 body {
-  background-color: lightsalmon;
+  background-color: (239, 207, 204);
 }
 
 #title {
@@ -18,8 +18,9 @@ body {
 }
 
 #likings {
-  font-size: 75px;
+  font-size: 45px;
   width:100%;
+  color: (123, 116, 116);
 }
 
 #likings2 {
@@ -27,12 +28,12 @@ body {
 }
 
 a:link, a:visited {
-  color: lightgrey;
-  font-family: fantasy;
+  color: black;
+  font-family: sans-serif;
 }
 
 a:active, a:link {
-  color: hotpink;
+  color: black;
 }
 
 /* .float {
@@ -45,8 +46,8 @@ a:active, a:link {
 }
 
 #aboutme {
-  font-size: 13px;
-  width: 100%
+  font-size: 16px;
+  width: 250%
 }
 
 #self {
